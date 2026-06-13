@@ -21,7 +21,7 @@ contributors. While our lag hypothesis was not confirmed by the data,
 the results establish that wearable signals carry strong predictive
 information about imminent glucose excursions.
 
-#Running the notebook
+# Running the notebook
 
 This notebook was originally developed on Kaggle, where we reuploaded the BIG IDEAs Glycemic Wearables dataset, as well as cached preprocessed data. To run the pipeline locally, 
 download the full dataset, change file path bases as necessary, and run the notebook. All preprocessed data will be saved to disk. The notebook will automatically check
